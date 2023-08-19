@@ -1,0 +1,22 @@
+.register{
+    width: 1000px;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: beige;
+}
+#register{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#register:hover{
+    background-color: green;
+}
+.firstup{
+    background-color: black;
+    width: 1250px;
+    height: 50px;
+    border-radius: 7px;
+    text-align:center;
+}
